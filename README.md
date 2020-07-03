@@ -1,4 +1,4 @@
-# neural-image-compression-explain_nice
+# neural image compression explaination
 
 This reposityory contains the PyTorch implementation for [Neural Image Compression and Explanation](https://arxiv.org/abs/1908.08988)
 
