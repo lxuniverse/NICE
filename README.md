@@ -5,7 +5,7 @@ This reposityory contains the PyTorch implementation for [Neural Image Compressi
 <img src="https://github.com/lxuniverse/neural-image-compression-explain_nice/blob/master/pic/Structure.png" width="500" class="center">
 
 ## Expalanation Examples
-Learned sparse explanation on MNIST datasets:
+Learned sparse explanation to LeNet-5 on MNIST datasets:
 
 ![demo](https://github.com/lxuniverse/neural-image-compression-explain_nice/blob/master/vis/masks.png)
 
