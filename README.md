@@ -25,10 +25,10 @@ python train_target_model.py
 ### Train NICE
 
 ```
-python main.py --r [$\lambda$] 
+python main.py --r [1] 
 ```
-$\lambda$ is the hyperparameter to balance the data loss and spase loss. Please read our paper for details.
-Please run $\lambda$ = 1, 5, 10, 15, 20 if you want to run next step to visualize results.
+-r: The hyperparameter to balance the data loss and spase loss. Please read our paper for details.
+Please run r = 1, 5, 10, 15, 20 if you want to run next step to visualize results.
 
 ### Visualize results
 ```
