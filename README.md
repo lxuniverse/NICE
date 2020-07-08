@@ -40,12 +40,10 @@ python visualize_explanation.py
 If you found this code useful, please cite our paper.
 
 ```latex
-@misc{li2019neural,
-    title={Neural Image Compression and Explanation},
-    author={Xiang Li and Shihao Ji},
-    year={2019},
-    eprint={1908.08988},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@article{li2019nice,
+  title={Neural Image Compression and Explanation},
+  author={Xiang Li and Shihao Ji},
+  journal={arXiv preprint arXiv:1908.08988},
+  year={2019}
 }
 ```
