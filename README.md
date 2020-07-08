@@ -4,21 +4,15 @@ This reposityory contains the PyTorch implementation of [Neural Image Compressio
 
 <img src="https://github.com/lxuniverse/neural-image-compression-explain_nice/blob/master/pic/Structure.png" width="500" class="center">
 
-----------------------
-Expalanation Examples
-----------------------
+## Expalanation Examples
 Learned sparse explanations from LeNet-5 on MNIST examples:
 
 ![demo](https://github.com/lxuniverse/neural-image-compression-explain_nice/blob/master/vis/masks.png)
 
--------------
-Requirements
--------------
+## Requirements
 PyTorch >= 0.4.0
     
-------------
-Quick Start
-------------
+## Quick Start
 Follow the below 3 steps to run our algorithm:
 
 1. Train a target model to explain
@@ -38,9 +32,7 @@ python main.py --r [1]
 python visualize_explanation.py
 ```
 
----------
-Citation
----------
+## Citation
 If you found this code useful, please cite our paper.
 
 ```latex
