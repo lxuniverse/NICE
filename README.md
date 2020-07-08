@@ -1,6 +1,6 @@
 # Neural Image Compression Explaination
 
-This reposityory contains the PyTorch implementation of [Neural Image Compression and Explanation](https://arxiv.org/abs/1908.08988)
+This reposityory contains the PyTorch implementation of [Neural Image Compression and Explanation](https://arxiv.org/abs/1908.08988).
 
 <img src="https://github.com/lxuniverse/neural-image-compression-explain_nice/blob/master/pic/Structure.png" width="500" class="center">
 
