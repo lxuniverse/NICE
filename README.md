@@ -5,7 +5,7 @@ This reposityory contains the PyTorch implementation of [Neural Image Compressio
 <img src="https://github.com/lxuniverse/neural-image-compression-explain_nice/blob/master/pic/Structure.png" width="500" class="center">
 
 ## Expalanation Examples
-Learned sparse explanation to LeNet-5 on MNIST datasets:
+Learned sparse explanations from LeNet-5 on MNIST examples:
 
 ![demo](https://github.com/lxuniverse/neural-image-compression-explain_nice/blob/master/vis/masks.png)
 
@@ -15,7 +15,7 @@ Learned sparse explanation to LeNet-5 on MNIST datasets:
     
 
 ## Quick Start
-Follow the below 3 steps to explore our algorithm:
+Follow the below 3 steps to run our algorithm:
 
 1. Train a target model to explain
 ```
@@ -27,8 +27,7 @@ python train_target_model.py
 ```
 python main.py --r [1] 
 ```
--r: The hyperparameter to balance the data loss and spase loss. Please read our paper for details.
-Please run r = 1, 5, 10, 15, 20 if you want to run next step to visualize results.
+-r: The hyperparameter to balance data loss and sparsity loss. Please read our paper for details.
 
 3. Visualize results
 ```
