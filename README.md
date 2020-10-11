@@ -32,7 +32,7 @@ python main.py --r [1]
 python visualize_explanation.py
 ```
 
-## Citation
+<!--## Citation
 If you found this code useful, please cite our paper.
 
 ```latex
@@ -43,3 +43,4 @@ If you found this code useful, please cite our paper.
   year={2019}
 }
 ```
+-->
