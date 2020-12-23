@@ -32,15 +32,16 @@ python main.py --r [1]
 python visualize_explanation.py
 ```
 
-<!--## Citation
+## Citation
 If you found this code useful, please cite our paper.
 
 ```latex
-@article{li2019nice,
-  title={Neural Image Compression and Explanation},
-  author={Xiang Li and Shihao Ji},
-  journal={arXiv preprint arXiv:1908.08988},
-  year={2019}
+@article{nice20,
+  title   = {Neural Image Compression and Explanation},
+  author  = {Xiang Li and Shihao Ji}, 
+  journal = {IEEE Access},
+  volume  = {8},
+  month   = {Nov.},
+  year    = {2020}
 }
 ```
--->
